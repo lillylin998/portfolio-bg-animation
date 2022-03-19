@@ -37,8 +37,8 @@ let timer;
 let cnv;
 
 function preload(){
-  bruin = loadImage('https://cdn.jsdelivr.net/gh/lillylin998/portfolio-bg-animation/bear.png');
-  torch = loadImage('https://cdn.jsdelivr.net/gh/lillylin998/portfolio-bg-animation/torch.png');
+  bruin = loadImage('https://cdn.jsdelivr.net/gh/lillylin998/portfolio-bg-animation@main/bear.png');
+  torch = loadImage('https://cdn.jsdelivr.net/gh/lillylin998/portfolio-bg-animation@main/torch.png');
   montserrat = loadFont('https://cdn.jsdelivr.net/gh/lillylin998/portfolio-animations@main/Montserrat-Regular.ttf');
 }
 
